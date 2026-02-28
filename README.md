@@ -1,77 +1,66 @@
-# 2WheelR-Purchase-Analysis
-🚲 2WheelR — Purchase & Business Performance Analysis
+## 🚲 2WheelR — Purchase & Business Performance Analysis
 
-Tool Used: Microsoft Excel 365
+**Tool Used:** Microsoft Excel 365
 
-📌 Project Overview
+### 📌 Project Overview
 
 This project analyzes multi-month two-wheeler purchase data to uncover insights related to store performance, brand demand, pricing trends, and procurement efficiency.
 
 The objective was to transform raw transactional data into structured business intelligence using Excel-based analytical techniques.
 
-📊 Key Analysis Performed
-🔹 Data Cleaning & Structuring
+---
 
-Consolidated monthly sheets (Apr–Dec)
+### 📊 Key Analysis Performed
 
-Removed duplicates and inconsistencies
+#### 🔹 Data Cleaning & Structuring
 
-Standardized fields (Make, Model, Price, Store, Date)
+* Consolidated monthly sheets (Apr–Dec)
+* Removed duplicates and inconsistencies
+* Standardized fields (Make, Model, Price, Store, Date)
+* Handled missing values
 
-Handled missing values
+#### 🔹 Month-over-Month (MoM) Analysis
 
-🔹 Month-over-Month (MoM) Analysis
+* Purchase count trends
+* Total purchase value comparison
+* Growth rate calculation
 
-Purchase count trends
+#### 🔹 Quarter-over-Quarter (QoQ) Analysis
 
-Total purchase value comparison
+* Volume comparison
+* Value contribution trends
 
-Growth rate calculation
+#### 🔹 Store Performance Analysis
 
-🔹 Quarter-over-Quarter (QoQ) Analysis
+* Purchase count by store
+* Revenue contribution by location
+* Identification of top & underperforming branches
 
-Volume comparison
+#### 🔹 Brand & Model Analysis
 
-Value contribution trends
+* Top 5 brands by purchase volume
+* Top 5 models by total value
+* Demand trend insights
 
-🔹 Store Performance Analysis
+---
 
-Purchase count by store
+### 📈 Insights Derived
 
-Revenue contribution by location
+* Identified peak purchase months
+* Highlighted high-performing stores
+* Revealed pricing trend fluctuations
+* Uncovered brand demand concentration
 
-Identification of top & underperforming branches
+---
 
-🔹 Brand & Model Analysis
+### 🛠 Excel Skills Demonstrated
 
-Top 5 brands by purchase volume
+* Pivot Tables
+* XLOOKUP / VLOOKUP
+* IF / SUMIFS / COUNTIFS
+* MoM & QoQ growth formulas
+* Data cleaning techniques
+* Dashboard creation
+* Data visualization
 
-Top 5 models by total value
 
-Demand trend insights
-
-📈 Insights Derived
-
-Identified peak purchase months
-
-Highlighted high-performing stores
-
-Revealed pricing trend fluctuations
-
-Uncovered brand demand concentration
-
-🛠 Excel Skills Demonstrated
-
-Pivot Tables
-
-XLOOKUP / VLOOKUP
-
-IF / SUMIFS / COUNTIFS
-
-MoM & QoQ growth formulas
-
-Data cleaning techniques
-
-Dashboard creation
-
-Data visualization
